@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-length.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixodette/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixodette/testing-practice/issues"
+  },
+  "homepage": "https://github.com/felixodette/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
